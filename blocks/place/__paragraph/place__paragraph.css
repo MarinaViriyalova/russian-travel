@@ -5,6 +5,7 @@
     line-height: 1.67;
     margin-bottom: 24px;
     color: white;
+    margin-top: 0;
 }
 
 .place__paragraph:last-of-type {
