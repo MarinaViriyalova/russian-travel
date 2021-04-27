@@ -24,3 +24,7 @@ git clone https://github.com/MarinaViriyalova/russian-travel.git
 **Будущая доработка проекта**
 
 Оформление двуязычного сайта, реализовать смену языка на английский
+
+**Ссылка на макет**
+
+[Макет в "Figma"](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=62863%3A634)
