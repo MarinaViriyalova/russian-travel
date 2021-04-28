@@ -2,9 +2,10 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    max-width: 1184px;
+    max-width: 100%;
     margin: 0 auto;
     padding: 28px 48px 56px 48px;
+    background-color: #2a2c2f;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
